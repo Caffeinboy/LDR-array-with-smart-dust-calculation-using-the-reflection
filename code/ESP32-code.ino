@@ -1,3 +1,5 @@
+//MASTER CODE
+
 #define BLYNK_TEMPLATE_ID "TMPLM"
 #define BLYNK_TEMPLATE_NAME "solar0"
 #define BLYNK_AUTH_TOKEN "Xxac3g6"
