@@ -1,4 +1,4 @@
-# Solar Panel Cleaning System using ESP32 + Arduino UNO
+# Smart Dust calculation using the reflection by the LDR array
 
 An intelligent solar panel cleaning system focused on **accurate dust detection using a 3-LDR + 3-LED reflective sensing array**, combined with automatic cleaning using an ESP32 (Master) and Arduino UNO (Slave).
 
